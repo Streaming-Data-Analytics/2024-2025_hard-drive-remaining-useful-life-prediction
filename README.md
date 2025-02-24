@@ -19,12 +19,12 @@ The data is provided by the **DEBS Grand Challenge 2024** (details available [he
 **Feature extraction and Incremental regression models** for continuous RUL estimation using **Streaming Machine Learning** algorithms from **River, MOA, or CapyMOA** .  
 
 
-#### **Evaluation Metrics**  
+## **Evaluation Metrics**  
 - **Mean Absolute Error (MAE)** and **Root Mean Squared Error (RMSE)** for RUL estimation accuracy.  
 - **Latency** in making predictions under real-time conditions.  
 - **Model adaptability** to sensor data drift over time.  
 
-#### **Deliverable**  
+## **Deliverable**  
 A report detailing the methodology, implemented code, and an evaluation of model performance.  
 
 For complete details: [DEBS Grand Challenge 2024](https://2024.debs.org/call-for-grand-challenge-solutions/)
