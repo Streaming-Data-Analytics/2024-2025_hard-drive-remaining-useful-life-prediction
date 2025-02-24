@@ -1,29 +1,33 @@
-# XXXX-XXXX Project-Title
+# Estimating Remaining Useful Life (RUL) of Hard Drives in Streaming
 
 Optional project of the [Streaming Data Analytics](https://emanueledellavalle.org/teaching/streaming-data-analytics-2024-25/) course provided by [Politecnico di Milano](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=837284&__pj0=0&__pj1=36cd41e96fcd065c47b49d18e46e3110).
 
 Student: **[To be assigned]**
 
-## Note for Professors/assistants
+## **Background**  
+Predicting the **Remaining Useful Life (RUL)** of hard drives is essential for proactive maintenance, reducing downtime, and preventing data loss. This project focuses on processing streaming sensor data to estimate when a hard drive is likely to fail.  
 
-Professors/assistants must use this template to create a new repository to be assigned to the student to carry out the project. This is the normal process that you will have to follow in order to interact with the template:
+## **Goals and Objectives**  
+- Develop a streaming pipeline to estimate hard drive RUL in real-time.  
+- Compare different predictive models for estimating failure time.  
+- Evaluate model performance using real or synthetic datasets.  
 
-* Click on the **Use this template** button;
-* Create a new repository in this organization;
-* Rename it replace **XXXX-XXXX** with the years of the course, **Project-Title** with the project number and title i.e., `2023-2024_1-SMLForSomething`;
-* Add a description;
-* Make it public;
-* Update this Readme file with the project description document;
-* Add the selected student as a collaborator.
+## **Datasets**  
+The data is provided by the **DEBS Grand Challenge 2024** (details available [here](https://2024.debs.org/call-for-grand-challenge-solutions/)).  
 
-## README structure
+## **Methodologies/Models to Apply**  
+**Feature extraction and Incremental regression models** for continuous RUL estimation using **Streaming Machine Learning** algorithms from **River, MOA, or CapyMOA** .  
 
-* Background
-* Goals and objectives
-* Datasets
-* Methodologies/models to apply
-* Evaluation metrics
-* Deliverable 
+
+#### **Evaluation Metrics**  
+- **Mean Absolute Error (MAE)** and **Root Mean Squared Error (RMSE)** for RUL estimation accuracy.  
+- **Latency** in making predictions under real-time conditions.  
+- **Model adaptability** to sensor data drift over time.  
+
+#### **Deliverable**  
+A report detailing the methodology, implemented code, and an evaluation of model performance.  
+
+For complete details: [DEBS Grand Challenge 2024](https://2024.debs.org/call-for-grand-challenge-solutions/)
 
 ## Note for Students
 
