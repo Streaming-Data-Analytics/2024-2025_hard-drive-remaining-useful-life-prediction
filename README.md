@@ -283,7 +283,7 @@ This project is for educational purposes as part of the Streaming Data Analytics
 
 ## 👨‍💻 Author
 
-**Roberto B**  
+**Roberto Benatuil**  
 Politecnico di Milano  
 Streaming Data Analytics Course - 2024/2025
 
