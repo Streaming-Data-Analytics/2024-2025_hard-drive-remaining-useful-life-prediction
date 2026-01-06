@@ -294,6 +294,5 @@ Streaming Data Analytics Course - 2024/2025
 1. Start with the **Jupyter notebook** - it's designed to be self-explanatory
 2. Check the **docstrings** in each module (config.py, preprocessing.py, models.py)
 3. Experiment with the **parameter tuning cells** in the notebook
-4. Review the **original scripts** for alternative implementations
 
 **Happy Streaming!** 🚀
