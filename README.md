@@ -257,9 +257,7 @@ Where `RUL` = Days until this drive fails
 ## 🔬 Research & References
 
 - **River Library**: https://riverml.xyz/
-- **Hoeffding Trees**: Domingos & Hulten (2000) - "Mining High-Speed Data Streams"
 - **Backblaze Data**: https://www.backblaze.com/b2/hard-drive-test-data.html
-- **Streaming ML Survey**: Gama et al. (2014) - "A Survey on Concept Drift Adaptation"
 
 ---
 
